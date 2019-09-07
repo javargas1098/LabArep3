@@ -19,7 +19,7 @@ Solo se debe tener instalado java
 ## Probando
 
 Para probar cada uno de los ejercicios solo se debe  correr las clases main  creadas en cada uno de los paquetes
-foto
+- ![foto](images/7.png)
 Dando como resultado exito de cada uno de los puntos podemos ver a continuacion el resultado de cada ejercicio.
 ### Exercise 1
 In the firt exercise i create a program when i learn about the URL and your componets , in the out of this exercise i get the results present below :
